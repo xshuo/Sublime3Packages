@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet Css Snippets",
+		"File History",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"MarkdownEditing",
+		"Modific",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
